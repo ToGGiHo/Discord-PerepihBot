@@ -1,2 +1,2 @@
 # Discord-PerepihBot
-create config.py file and add TOKEN="your personal bot token"
+create config.py file and add KEY="your personal bot token"
